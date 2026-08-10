@@ -18,7 +18,7 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 | :--- | :--- |
 | **Controle de Versão** | Git, GitHub |
 | **Containerização** | Docker, Docker Compose |
-| **CI/CD** | GitHub Actions / Jenkins |
+| **CI/CD** | GitHub Actions|
 
 
 ---
