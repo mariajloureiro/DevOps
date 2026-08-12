@@ -12,6 +12,12 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 
 ---
 
+## 🔗 Repositórios Relacionados
+
+* **[Repositório de Atividades] (https://github.com/mariajloureiro/AtividadesDevOps.git)**: Repositório complementar com as entregas e atividades práticas em equipe desenvolvidas para a disciplina.
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 | Categoria | Tecnologias / Conceitos |
@@ -19,8 +25,6 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 | **Controle de Versão** | Git, GitHub |
 | **Containerização** | Docker, Docker Compose |
 | **CI/CD** | GitHub Actions |
-
-
 
 ---
 
