@@ -7,7 +7,6 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 ## 📌 Conteúdo do Repositório
 
 * **Docs:** Resumos teóricos e anotações de aula.
-* **Exercícios:** Atividades práticas divididas por tópicos/módulos.
 * **Projetos:** Automações de infraestrutura e pipelines de CI/CD.
 
 ---
