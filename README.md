@@ -14,7 +14,7 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 ## 🔗 Repositórios Relacionados
 
 * **[Repositório de Atividades] (https://github.com/mariajloureiro/AtividadesDevOps.git)**: Repositório complementar com as entregas e atividades práticas em equipe desenvolvidas para a disciplina.
-* * **[Repositório de Atividades projetos em grupo] (https://github.com/Isadora-Correa/ProjetoGrupo-DevOps)**: Repositório complementar com as entregas e atividades em equipe desenvolvidas para a disciplina.
+* **[Repositório de Atividades projetos em grupo] (https://github.com/Isadora-Correa/ProjetoGrupo-DevOps)**: Repositório complementar com as entregas e atividades em equipe desenvolvidas para a disciplina.
 
 ---
 
