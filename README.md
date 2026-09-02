@@ -32,7 +32,5 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 
 ```text
 .
-├── docs/          # Anotações teóricas e resumos
-├── exercicios/    # Resolução de tarefas práticas
-├── projetos/      # Projetos finais/intermediários
-└── README.md      # Guia principal do repositório
+├── docs/Aulas         # Anotações teóricas e resumos
+
