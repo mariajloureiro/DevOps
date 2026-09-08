@@ -8,13 +8,15 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 
 * **Docs:** Resumos teóricos e anotações de aula.
 
-
 ---
 
-## 🔗 Repositórios Relacionados
+## 🔗 Repositórios de Atividades e Projetos
 
-* **[Repositório de Atividades] (https://github.com/mariajloureiro/AtividadesDevOps.git)**: Repositório complementar com as entregas e atividades práticas em equipe desenvolvidas para a disciplina.
-* **[Repositório de Atividades projetos em grupo] (https://github.com/Isadora-Correa/ProjetoGrupo-DevOps)**: Repositório complementar com as entregas e atividades em equipe desenvolvidas para a disciplina.
+| Descrição / Tipo de Projeto | Repositório |
+| :--- | :--- |
+| **Atividades Práticas (Individuais/Equipe)** | [AtividadesDevOps](https://github.com/mariajloureiro/AtividadesDevOps.git) |
+| **Projetos em Grupo** | [ProjetoGrupo-DevOps](https://github.com/Isadora-Correa/ProjetoGrupo-DevOps) |
+| **Livraria Web (Deploy Vercel)** | [Livraria-Vercel](https://github.com/mariajloureiro/Livraria-Vercel.git) |
 
 ---
 
@@ -32,5 +34,4 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 
 ```text
 .
-├── docs/Aulas         # Anotações teóricas e resumos
-
+└── docs/Aulas          # Anotações teóricas e resumos
