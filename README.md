@@ -14,9 +14,9 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 
 | Descrição / Tipo de Projeto | Repositório |
 | :--- | :--- |
-| **Atividades Práticas (Individuais/Equipe)** | [AtividadesDevOps](https://github.com/mariajloureiro/AtividadesDevOps.git) |
 | **Projetos em Grupo** | [ProjetoGrupo-DevOps](https://github.com/Isadora-Correa/ProjetoGrupo-DevOps) |
-| **Livraria Web (Deploy Vercel)** | [Livraria-Vercel](https://github.com/mariajloureiro/Livraria-Vercel.git) |
+| **Livraria Web (Deploy Vercel) Tarefa 03** | [Livraria-Vercel](https://github.com/mariajloureiro/Livraria-Vercel.git) |
+| ** () Tarefa 04** | [Livraria-Vercel](https://github.com/mariajloureiro/Livraria-Vercel.git) |
 
 ---
 
