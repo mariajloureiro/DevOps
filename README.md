@@ -18,6 +18,7 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 | **Livraria Web (Deploy Vercel) Tarefa 03** | [Livraria-Vercel](https://github.com/mariajloureiro/Livraria-Vercel.git) |
 | **Estudo Comparativo Tarefa 04** | (https://github.com/mariajloureiro/Estudo-comparativo-CI-CD.git) |
 | **Projeto Pipeline Tarefa 05** | (https://github.com/mariajloureiro/Projeto-Pipeline.git) |
+| **Projeto Pipeline e Pesquisa Tarefa 06** | (https://github.com/mariajloureiro/Projeto-Pipeline.git) |
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
