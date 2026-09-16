@@ -17,7 +17,7 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 | **Projetos em Grupo** | [ProjetoGrupo-DevOps](https://github.com/Isadora-Correa/ProjetoGrupo-DevOps) |
 | **Livraria Web (Deploy Vercel) Tarefa 03** | [Livraria-Vercel](https://github.com/mariajloureiro/Livraria-Vercel.git) |
 | **Estudo Comparativo Tarefa 04** | (https://github.com/mariajloureiro/Estudo-comparativo-CI-CD.git) |
-| **  Tarefa 05** | () |
+| **Projeto Pipeline Tarefa 05** | (https://github.com/mariajloureiro/Projeto-Pipeline.git) |
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
