@@ -20,7 +20,7 @@ Este repositório contém os materiais de estudo, atividades práticas e projeto
 | **Projeto Pipeline Tarefa 05** | (https://github.com/mariajloureiro/Projeto-Pipeline.git) |
 | **Projeto Pipeline e Pesquisa Tarefa 06** | (https://github.com/mariajloureiro/Projeto-Pipeline.git) 
 | **Projeto GitBot  Tarefa 07**  | (https://github.com/mariajloureiro/GitBot.git)
-| **Projeto Apresentação Tarefa 08**  | ()
+| **Projeto Apresentação Tarefa 08**  | (https://github.com/mariajloureiro/Kubernetes.git)
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
