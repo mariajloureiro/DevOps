@@ -25,7 +25,7 @@ A tabela abaixo centraliza as entregas e os repositórios práticos de cada tare
 | **Tarefa 06** | Aprofundamento em Pipeline de CI/CD e Pesquisa | [Projeto-Pipeline](https://github.com/mariajloureiro/Projeto-Pipeline.git) |
 | **Tarefa 07** | Projeto GitBot (CI/CD com Cypress e Lighthouse) | [GitBot](https://github.com/mariajloureiro/GitBot.git) |
 | **Tarefa 08** | Apresentação e Avaliação Prática sobre Kubernetes | [Kubernetes](https://github.com/mariajloureiro/Kubernetes.git) |
-| **Tarefa 09** | Documentação de Software | https://github.com/mariajloureiro/DevOps.git |
+| **Tarefa 09** | Documentação de Software | [GitBot] (https://github.com/mariajloureiro/DevOps.git) |
 
 ---
 
