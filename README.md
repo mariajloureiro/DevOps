@@ -26,7 +26,7 @@ A tabela abaixo centraliza as entregas e os repositórios práticos de cada tare
 | **Tarefa 07** | Projeto GitBot (CI/CD com Cypress e Lighthouse) | [GitBot](https://github.com/mariajloureiro/GitBot.git) |
 | **Tarefa 08** | Apresentação e Avaliação Prática sobre Kubernetes | [Kubernetes](https://github.com/mariajloureiro/Kubernetes.git) |
 | **Tarefa 09** | Documentação de Software | [GitBot](https://github.com/mariajloureiro/GitBot.git) |
-| **Tarefa 10** | *Em execução* | ⏳ *Em breve* |
+| **Tarefa 10** | Hoink - Sistema de Gestão Financeira | (https://github.com/Isadora-Correa/Hoink.git) |
 
 ---
 
